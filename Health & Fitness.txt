@@ -1,3 +1,0 @@
-|User Name      |Full Name      |Age            |Gender         |Height         |Weight         |BMI            |
-|Ahmed          |Ahmed Elsifi   |19             |MALE           |187.00         |54.00          |15             |
-|Saleh          |Saleh Elshiekh |23             |MALE           |190.00         |70.00          |19             |
